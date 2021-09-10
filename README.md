@@ -3,6 +3,7 @@
 Train LeNet-1/4/5
 
 python model1/2/3.py
+
 # Testing
 python PSO_MNIST.py
 # Show the t-SNE of test examples
