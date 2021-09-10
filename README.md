@@ -1,4 +1,4 @@
-# DeepSensor
+# DeepSensor：Deep Learning Testing Framework Based on Neuron Sensitivity
 # Training
 Train LeNet-1/4/5
 
